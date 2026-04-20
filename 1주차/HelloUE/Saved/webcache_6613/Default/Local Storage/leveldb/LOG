@@ -1,3 +1,2 @@
-2026/04/01-15:20:29.668 2d74 Reusing MANIFEST C:\Users\user\Desktop\2022180010\unreal_engine\1주차\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/01-15:20:29.671 2d74 Recovering log #3
-2026/04/01-15:20:29.673 2d74 Reusing old log C:\Users\user\Desktop\2022180010\unreal_engine\1주차\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/20-21:39:35.266 60c0 Creating DB C:\Users\jonha\OneDrive\바탕 화면\unreal_engine\1주차\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/20-21:39:35.281 60c0 Reusing MANIFEST C:\Users\jonha\OneDrive\바탕 화면\unreal_engine\1주차\HelloUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
